@@ -1,5 +1,5 @@
-public class yk{
-public static void main (String[ args){
-System.out.println("Hello World");
-}
+public class yk {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
